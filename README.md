@@ -24,14 +24,15 @@ This simple script allows you to convert any image to ASCII art with characters 
 #### Technologies
 
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/> Python
-- 
+
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115736683-23709480-a394-11eb-83ff-2b9934000eff.png"/> PIL (Python Imaging Library)
-- 
+
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/> Numpy
-- 
+
 - <img align="left" width="76px" src="https://user-images.githubusercontent.com/1499751/115973789-59fb0a80-a560-11eb-858b-eb8777276f32.jpg"/> Tkinter
-- 
+
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115753693-24a9bd80-a3a4-11eb-9ce7-d2320ee4000a.png"/> OpenCV
+
 
 [Back To The Top](#Image_to_ASCII_Art)
 
