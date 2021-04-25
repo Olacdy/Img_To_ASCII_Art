@@ -29,7 +29,7 @@ This simple script allows you to convert any image to ASCII art with characters 
 
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/> Numpy
 
-- <img align="left" width="76px" src="https://user-images.githubusercontent.com/1499751/115973789-59fb0a80-a560-11eb-858b-eb8777276f32.jpg"/> Tkinter
+- <img align="left" width="60px" src="https://user-images.githubusercontent.com/1499751/115998643-e523e100-a5f0-11eb-9ca4-0279c356f4ac.jpg"/> Tkinter
 
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115753693-24a9bd80-a3a4-11eb-9ce7-d2320ee4000a.png"/> OpenCV
 
