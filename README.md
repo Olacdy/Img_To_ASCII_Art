@@ -18,8 +18,8 @@ Solarized dark             |  Solarized Ocean
 ## Description
 
 This simple script allows you to convert any image to ASCII art with characters that you can specify too. There are two ways to use this app:
-- 1. You can load image through file explorer and get output in form of text file and image of result.
-- 2. You can open your webcamera and see transformation live, although its a bit slow with a live transformation, so there is some work needs to be done.
+- You can load image through file explorer and get output in form of text file and image of result.
+- You can open your webcamera and see transformation live, although its a bit slow with a live transformation, so there is some work needs to be done.
 
 #### Technologies
 
@@ -33,7 +33,7 @@ This simple script allows you to convert any image to ASCII art with characters 
 
 - <img align="left" width="30px" src="https://user-images.githubusercontent.com/1499751/115753693-24a9bd80-a3a4-11eb-9ce7-d2320ee4000a.png"/> OpenCV
 
-
+<br/><br/>
 [Back To The Top](#Image_to_ASCII_Art)
 
 ---
