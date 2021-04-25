@@ -20,6 +20,7 @@ Solarized dark             |  Solarized Ocean
 This simple script allows you to convert any image to ASCII art with characters that you can specify too. There are two ways to use this app:
 - You can load image through file explorer and get output in form of text file and image of result.
 - You can open your webcamera and see transformation live, although its a bit slow with a live transformation, so there is some work needs to be done.
+In config.py you can specify parameters for your transformation. Cols — width of output, scale — percent of height from width, ASCII — string of characters.
 
 #### Technologies
 
