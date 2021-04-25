@@ -58,7 +58,10 @@ def chars_to_img(img_in_ascii):
 
 def get_tile_img_dim(img_size, cols=COLS, scale=SCALE):
 
-    img_h, img_w, _ = img_size
+    try:
+        img_h, img_w = img_size
+    except:
+        img_h, img_w, _ = img_size
 
     print("Input image dims: %d x %d" % (img_w, img_h))
 
@@ -85,23 +88,12 @@ def get_img_in_ascii(image, tile_img_dim):
     aimg = []
 
     for j in range(rows):
-        y1 = int(j * h)
-        y2 = int((j + 1) * h)
-
-        if j == rows - 1:
-            y2 = img_h
 
         aimg.append("")
 
         for i in range(cols):
 
-            x1 = int(i * w)
-            x2 = int((i + 1) * w)
-
-            if i == cols - 1:
-                x2 = img_w
-
-            avg = int(get_average(image[y1:y2, x1:x2]))
+            avg = int(get_average(image[int(j * h):int((j + 1) * h), int(i * w):int((i + 1) * w)]))
 
             gsval = pixels_to_chars(avg)
 
