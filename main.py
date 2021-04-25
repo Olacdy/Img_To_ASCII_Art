@@ -26,7 +26,7 @@ if __name__ == "__main__":
         frame_rate = 7
         prev = 0
         cap = cv2.VideoCapture()
-        cap.open("sample.mp4")
+        cap.open(0)
 
         _, frame = cap.read()
 
