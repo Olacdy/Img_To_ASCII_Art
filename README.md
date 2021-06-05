@@ -1,6 +1,6 @@
 # Image_to_ASCII_Art
 
-Pre scripy image           |  Generated ASCII art 
+Pre script image           |  Generated ASCII art 
 :-------------------------:|:-------------------------:
 ![Sample img link]         | ![Output img link]
 
