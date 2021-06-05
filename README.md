@@ -1,6 +1,6 @@
 # Image_to_ASCII_Art
 
-Solarized dark             |  Solarized Ocean
+Pre scripy image           |  Generated ASCII art 
 :-------------------------:|:-------------------------:
 ![Sample img link]         | ![Output img link]
 
@@ -53,6 +53,8 @@ Run main.py and choose what you prefer to do in command line.
 
 ## License
 
+```text
+
 MIT License
 
 Copyright (c) 2021 Didechkin Oleg
@@ -74,6 +76,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
 
 [Back To The Top](#Image_to_ASCII_Art)
 
