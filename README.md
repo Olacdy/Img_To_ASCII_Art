@@ -1,6 +1,6 @@
 # Image_to_ASCII_Art
 
-Pre script image           |  Generated ASCII art 
+Prescript image            |  Generated ASCII art 
 :-------------------------:|:-------------------------:
 ![Sample img link]         | ![Output img link]
 
@@ -18,9 +18,9 @@ Pre script image           |  Generated ASCII art
 ## Description
 
 This simple script allows you to convert any image to ASCII art with characters that you can specify too. There are two ways to use this app:
-- You can load image through file explorer and get output in form of text file and image of result.
-- You can open your webcamera and see transformation live, although its a bit slow with a live transformation, so there is some work needs to be done.
-In config.py you can specify parameters for your transformation. Cols — width of output, scale — percent of height from width, ASCII — string of characters.
+- You can load images through file explorer and get output in form of text file and image of the result.
+- You can open your web camera and see transformation live, although it's a bit slow with a live transformation, so some work needs to be done.
+In config.py you can specify parameters for your transformation. Cols — width of output, scale — percent of height from the width, ASCII — the string of characters.
 
 #### Technologies
 
@@ -41,11 +41,11 @@ In config.py you can specify parameters for your transformation. Cols — width 
 
 #### Installation
 
-To start using that project on your machine, you need to have a Python 3.7+, download the repository and run command below to install all required dependencies to then use it.
+To start using that project on your machine, you need to have a Python 3.7+, download the repository and run the command below to install all required dependencies to then use it.
 
 >pip install -r requirements.txt
 
-Run main.py and choose what you prefer to do in command line.
+Run main.py and choose what you prefer to do in the command line.
 
 [Back To The Top](#Image_to_ASCII_Art)
 
